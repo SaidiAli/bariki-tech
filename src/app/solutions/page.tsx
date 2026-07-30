@@ -136,7 +136,7 @@ export default function ClientSolutionsPage() {
               Let's identify the perfect Security solution for your world.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="/contact" className="btn-primary bg-gradient-primary px-8 py-4">
+              <a href="/contact/" className="btn-primary bg-gradient-primary px-8 py-4">
                 Schedule a Consultation
               </a>
             </div>

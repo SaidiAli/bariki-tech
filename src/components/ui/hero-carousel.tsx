@@ -25,7 +25,7 @@ const slides = Object.values(servicesData)
     title: s.title,
     description: s.description,
     bg: s.heroImage || s.image,
-    link: `/services/${s.id}`,
+    link: `/services/${s.id}/`,
   }));
 
 const bottomFeatures = [
@@ -91,7 +91,7 @@ export default function HeroCarousel() {
                         Explore Service
                       </button>
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/contact/">
                       <button className="btn-hero border-none">
                         Get Free Consultation
                       </button>

@@ -232,10 +232,10 @@ export default function BarikiDifferencePage() {
             transparency, measurable results, and a shared mission to build something that endures.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className="btn-primary bg-gradient-primary px-8 py-4">
+            <Link href="/contact/" className="btn-primary bg-gradient-primary px-8 py-4">
               Begin Your Partnership
             </Link>
-            <Link href="/solutions" className="btn-outline px-8 py-4">
+            <Link href="/solutions/" className="btn-outline px-8 py-4">
               Explore Client Tiers
             </Link>
           </div>

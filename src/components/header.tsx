@@ -37,9 +37,9 @@ const Header = () => {
   const navigationItems = [
     { label: 'Home', href: '/' },
     { label: 'Services', href: '#' },
-    { label: 'About', href: '/about' },
-    { label: 'Porfolio', href: '/projects' },
-    { label: 'Contact', href: '/contact' },
+    { label: 'About', href: '/about/' },
+    { label: 'Porfolio', href: '/projects/' },
+    { label: 'Contact', href: '/contact/' },
   ];
 
   return (
@@ -118,13 +118,13 @@ const Header = () => {
                                 </div>
                                 <div className="space-y-1">
                                   <Link
-                                    href="/services"
+                                    href="/services/"
                                     className="group block px-4 py-3 text-sm text-gray-700 hover:bg-gradient-to-r hover:from-primary/10 hover:to-secondary/10 hover:text-primary transition-all duration-300 rounded-xl"
                                   >
                                     <div className="font-semibold text-base mb-0.5 group-hover:translate-x-1 transition-transform duration-300">All Services</div>
                                   </Link>
                                   <Link
-                                    href="/solutions"
+                                    href="/solutions/"
                                     className="group block px-4 py-3 text-sm text-gray-700 hover:bg-gradient-to-r hover:from-primary/10 hover:to-secondary/10 hover:text-primary transition-all duration-300 rounded-xl"
                                   >
                                     <div className="font-semibold text-base mb-0.5 group-hover:translate-x-1 transition-transform duration-300">Client Solutions</div>
@@ -145,7 +145,7 @@ const Header = () => {
                                   {services.map((service, index) => (
                                     <Link
                                       key={index}
-                                      href={`/services/${service.id}`}
+                                      href={`/services/${service.id}/`}
                                       className="group block px-4 py-2.5 text-sm text-black hover:bg-gradient-to-r hover:from-secondary/10 hover:to-primary/10 hover:text-secondary transition-all duration-300 rounded-xl"
                                     >
                                       <div className="font-medium group-hover:translate-x-1 transition-transform duration-300">{service.title}</div>
@@ -327,14 +327,14 @@ const MobileMenuItem = ({
           >
             <div className="pl-4 pb-2 space-y-1">
               <Link
-                href="/services"
+                href="/services/"
                 onClick={onClose}
                 className="block py-2 text-gray-600 hover:text-primary transition-colors text-sm font-medium"
               >
                 All Services
               </Link>
               <Link
-                href="/solutions"
+                href="/solutions/"
                 onClick={onClose}
                 className="block py-2 text-gray-600 hover:text-primary transition-colors text-sm font-medium"
               >
@@ -346,7 +346,7 @@ const MobileMenuItem = ({
               {services.map((service, index) => (
                 <Link
                   key={index}
-                  href={`/services/${service.id}`}
+                  href={`/services/${service.id}/`}
                   onClick={onClose}
                   className="block py-2 text-gray-600 hover:text-primary transition-colors text-sm"
                 >

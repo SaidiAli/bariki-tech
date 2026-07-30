@@ -81,7 +81,7 @@ const ClientTiers = () => {
 
           {/* CTA Button */}
           <Link
-            href="/contact"
+            href="/contact/"
             className="btn-secondary bg-gradient-secondary w-full text-center group-hover:shadow-lg transition-all"
           >
             I am a {tier.name} Client

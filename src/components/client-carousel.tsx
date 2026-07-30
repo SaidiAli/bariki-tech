@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const clients = [
     { name: "Buwule and Mayiga Advocates", logo: "/clients/buwule-and-mayiga-advocates.png" },
     { name: "Case Medical", logo: "/clients/case-medical.png" },

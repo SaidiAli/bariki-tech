@@ -48,7 +48,7 @@ const ServicesSection = () => {
                 is part of our integrated approach to building resilient security.
               </p>
               <Link
-                href="/services"
+                href="/services/"
                 className="inline-flex items-center gap-2 text-primary hover:text-primary/80 font-semibold transition-colors"
               >
                 <span>Explore Our Ecosystem Approach</span>
@@ -82,7 +82,7 @@ const ServicesSection = () => {
                 <div className="absolute inset-0 bg-gradient-to-t from-dark/50 to-transparent"></div>
               </div>
               <div className="p-6 flex flex-col flex-grow">
-                <a href={`/services/${service.id}`}>
+                <a href={`/services/${service.id}/`}>
                   <h3 className="text-xl font-bold text-dark mb-3 group-hover:text-primary transition-colors">
                     {service.title}
                   </h3>
@@ -90,7 +90,7 @@ const ServicesSection = () => {
                 <p className="text-muted-foreground mb-4 leading-relaxed flex-grow">
                   {service.description}
                 </p>
-                <a href={`/services/${service.id}`}>
+                <a href={`/services/${service.id}/`}>
                   <button className="btn-outline w-full mt-4 group-hover:bg-primary group-hover:text-primary-foreground group-hover:border-primary transition-all">
                     Learn More
                   </button>

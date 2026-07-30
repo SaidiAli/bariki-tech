@@ -3,17 +3,17 @@ import { Icon } from "@iconify/react";
 
 const Footer = () => {
   const services = [
-    { title: 'CCTV Surveillance', href: '/services/cctv-surveillance' },
-    { title: 'Electric Fencing', href: '/services/electric-fencing' },
-    { title: 'Access Control', href: '/services/access-control' },
-    { title: 'Gate Automation', href: '/services/gate-automation' },
+    { title: 'CCTV Surveillance', href: '/services/cctv-surveillance/' },
+    { title: 'Electric Fencing', href: '/services/electric-fencing/' },
+    { title: 'Access Control', href: '/services/access-control/' },
+    { title: 'Gate Automation', href: '/services/gate-automation/' },
   ];
 
   const quickLinks = [
-    { title: 'About Us', href: '/about' },
-    { title: 'Our Services', href: '/services' },
-    { title: 'Projects', href: '/projects' },
-    { title: 'Contact', href: '/contact' },
+    { title: 'About Us', href: '/about/' },
+    { title: 'Our Services', href: '/services/' },
+    { title: 'Projects', href: '/projects/' },
+    { title: 'Contact', href: '/contact/' },
   ];
 
   return (

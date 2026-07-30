@@ -170,10 +170,10 @@ export default function ServicesPage() {
             Partner with a team that designs, builds, maintains, and evolves your entire security reality.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className="btn-primary bg-gradient-primary px-8 py-4">
+            <Link href="/contact/" className="btn-primary bg-gradient-primary px-8 py-4">
               Speak to a Consultant
             </Link>
-            <Link href="/about" className="btn-outline px-8 py-4">
+            <Link href="/about/" className="btn-outline px-8 py-4">
               Learn Our Story
             </Link>
           </div>
@@ -188,7 +188,7 @@ export default function ServicesPage() {
 function ServiceCard({ service }: { service: ServiceData }) {
   return (
     <Link
-      href={`/services/${service.id}`}
+      href={`/services/${service.id}/`}
       className="group card-glass hover-lift overflow-hidden h-full flex flex-col"
     >
       <div className="relative h-48 overflow-hidden">

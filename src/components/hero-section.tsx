@@ -37,7 +37,7 @@ const HeroSection = () => {
 
           {/* CTA Button */}
           <div className="mt-4">
-          <Link href="/contact" className="mt-4">
+          <Link href="/contact/" className="mt-4">
             <button className="btn-hero border-none group">
               Get Free Consultation
             </button>

@@ -14,19 +14,19 @@ const ctaContent = {
     title: "Ready to Architect Your Resilience?",
     description: "Stop adding disconnected systems. Start building a unified, intelligent security ecosystem designed to anticipate threats, not just respond to them.",
     buttonText: "Schedule Your Consultation",
-    buttonHref: "/contact"
+    buttonHref: "/contact/"
   },
   audit: {
     title: "Need a Custom Security Solution?",
     description: "Our experts will assess your requirements and design a tailored security system using the Gold Standard framework. Every solution is engineered for resilience.",
     buttonText: "Book a Security Audit",
-    buttonHref: "/contact"
+    buttonHref: "/contact/"
   },
   partnership: {
     title: "Ready to Build with a Partner, Not Just a Provider?",
     description: "Join organizations across Africa who have transformed their security from reactive protection to predictive resilience.",
     buttonText: "Book a Security Audit",
-    buttonHref: "/contact"
+    buttonHref: "/contact/"
   }
 };
 
