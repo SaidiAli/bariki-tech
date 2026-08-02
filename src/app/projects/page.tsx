@@ -5,12 +5,12 @@ import Header from '@/components/header';
 import Footer from '@/components/footer';
 import { Icon } from '@iconify/react';
 
-const officeCctv = 'https://site-contents.aptusagency.com/bariki/project-office-cctv.jpg';
+const officeCctv = 'https://site-contents.aptusagency.com/bariki/Surveillance_camera_monitoring_o%E2%80%A6_202608021153.jpeg';
 const residentialFence = 'https://site-contents.aptusagency.com/bariki/project-residential-fence.jpg';
 const corporateAccess = 'https://site-contents.aptusagency.com/bariki/project-corporate-access.jpg';
 const mallSurveillance = 'https://site-contents.aptusagency.com/bariki/ubujhsueh9778fzz9ana.jpg';
 const warehouseSecurity = 'https://site-contents.aptusagency.com/bariki/project-warehouse-security.jpg';
-const schoolSecurity = 'https://site-contents.aptusagency.com/bariki/project-school-security.jpg';
+const schoolSecurity = 'https://site-contents.aptusagency.com/bariki/Surveillance_camera_monitoring_s%E2%80%A6_202608021156.jpeg';
 
 const projects = [
   {
