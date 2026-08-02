@@ -77,7 +77,7 @@ export default function VideoHero() {
                 className={`absolute inset-0 w-full h-full bg-cover bg-center transition-opacity duration-1000 ${isVideoReady ? 'opacity-0' : 'opacity-100'
                     }`}
                 style={{
-                    backgroundImage: 'url(https://res.cloudinary.com/zurri-cloud/image/upload/v1765457680/bariki/ia5zoxyxcomrb9mlhsqo.jpg)'
+                    backgroundImage: 'url(https://site-contents.aptusagency.com/bariki/ia5zoxyxcomrb9mlhsqo.jpg)'
                 }}
             />
 

@@ -58,7 +58,7 @@ const Header = () => {
               <motion.img
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.3 }}
-                src="https://res.cloudinary.com/zurri-cloud/image/upload/v1759221309/bariki/alh0lrkyjtbzydirlamy.png"
+                src="https://site-contents.aptusagency.com/bariki/alh0lrkyjtbzydirlamy.png"
                 alt="Bariki Tech Security Solutions"
                 className="h-20 w-auto max-w-[70vw] lg:max-w-none object-contain transition-all duration-300"
               />

@@ -25,7 +25,7 @@ const Footer = () => {
           <div className="lg:col-span-1 p-4 md:p-8">
             <div className="flex items-center gap-3 mb-6">
               <img
-                src={"/bariki-logo.png"}
+                src={"https://site-contents.aptusagency.com/bariki/bariki-logo.png"}
                 alt="Bariki Tech Security Solutions"
                 className="h-24 w-auto"
               />

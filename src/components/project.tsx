@@ -19,7 +19,7 @@ const Project = () => {
             className="h-full"
           >
             <img
-              src="https://res.cloudinary.com/zurri-cloud/image/upload/v1762420276/bariki/kpi5k4aqnftawfxxoxe0.webp"
+              src="https://site-contents.aptusagency.com/bariki/kpi5k4aqnftawfxxoxe0.webp"
               alt="Pro Series with ColorVu 3.0"
               className="w-full h-full max-w-full object-cover rounded-lg shadow-lg"
             />

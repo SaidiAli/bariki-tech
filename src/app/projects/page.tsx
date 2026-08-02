@@ -5,12 +5,12 @@ import Header from '@/components/header';
 import Footer from '@/components/footer';
 import { Icon } from '@iconify/react';
 
-const officeCctv = '/project-office-cctv.jpg';
-const residentialFence = '/project-residential-fence.jpg';
-const corporateAccess = '/project-corporate-access.jpg';
-const mallSurveillance = 'https://res.cloudinary.com/zurri-cloud/image/upload/v1762421979/bariki/ubujhsueh9778fzz9ana.jpg';
-const warehouseSecurity = '/project-warehouse-security.jpg';
-const schoolSecurity = '/project-school-security.jpg';
+const officeCctv = 'https://site-contents.aptusagency.com/bariki/project-office-cctv.jpg';
+const residentialFence = 'https://site-contents.aptusagency.com/bariki/project-residential-fence.jpg';
+const corporateAccess = 'https://site-contents.aptusagency.com/bariki/project-corporate-access.jpg';
+const mallSurveillance = 'https://site-contents.aptusagency.com/bariki/ubujhsueh9778fzz9ana.jpg';
+const warehouseSecurity = 'https://site-contents.aptusagency.com/bariki/project-warehouse-security.jpg';
+const schoolSecurity = 'https://site-contents.aptusagency.com/bariki/project-school-security.jpg';
 
 const projects = [
   {
@@ -92,7 +92,7 @@ const Projects = () => {
         <div className="container-custom">
           <div className="absolute inset-0">
             <img
-              src={'https://res.cloudinary.com/zurri-cloud/image/upload/v1765885113/bariki/fzu1iatew3pxjg1apo1i.jpg'}
+              src={'https://site-contents.aptusagency.com/bariki/fzu1iatew3pxjg1apo1i.jpg'}
               alt="About Bariki Tech"
               className="w-full h-full object-cover"
             />

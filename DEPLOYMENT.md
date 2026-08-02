@@ -18,9 +18,9 @@ The static site is generated in the `out/` directory.
 
 Upload the contents of `out/` into the domain's `public_html` directory. Upload the contents of `out/` itself, not the `out` folder as a nested directory.
 
-Before uploading, clean or back up the existing `public_html` directory. Old WordPress files, framework folders, stale route directories, or previous `.htaccess` rewrite rules can conflict with the static export and cause valid pages or images to resolve as 403 Forbidden.
+Before uploading, clean or back up the existing `public_html` directory. Old WordPress files, framework folders, stale route directories, or previous `.htaccess` rewrite rules can conflict with the static export and cause valid pages or static files to resolve as 403 Forbidden.
 
-Make sure the upload includes all files and folders inside `out/`, including loose image files such as `hero-security.jpg`, `bariki-logo.png`, the `clients/` folder, the `_next/` folder, and `.htaccess`.
+Most site images are loaded from Cloudflare R2 at `https://site-contents.aptusagency.com/bariki/`. Make sure that R2 bucket/public domain stays accessible, and make sure the cPanel upload still includes all files and folders inside `out/`, including the `_next/` folder, `.htaccess`, and any copied static files such as `favicon.ico`.
 
 Expected structure:
 

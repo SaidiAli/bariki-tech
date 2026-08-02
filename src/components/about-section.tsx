@@ -62,7 +62,7 @@ const AboutSection = () => {
             className="h-full relative "
           >
             <img
-              src="https://res.cloudinary.com/zurri-cloud/image/upload/v1762417210/bariki/t8huhfczdtxvnihgpgga.jpg"
+              src="https://site-contents.aptusagency.com/bariki/t8huhfczdtxvnihgpgga.jpg"
               alt="Bariki Tech Security Solutions"
               className="w-full h-full max-w-full max-h-full object-cover rounded-2xl"
             />

@@ -188,7 +188,7 @@ const Header = () => {
                         <div className="flex items-center"> {/* row align-items-center */}
                             <div className="w-6/12"> {/* col-6 */}
                                 <div className="logo">
-                                    <a href="index.html"><img src="https://res.cloudinary.com/zurri-cloud/image/upload/v1759221309/bariki/alh0lrkyjtbzydirlamy.png" alt="logo" className="max-w-full h-auto" /></a>
+                                    <a href="index.html"><img src="https://site-contents.aptusagency.com/bariki/alh0lrkyjtbzydirlamy.png" alt="logo" className="max-w-full h-auto" /></a>
                                 </div>
                             </div>
                             <div className="w-6/12"> {/* col-6 */}
@@ -214,7 +214,7 @@ const Header = () => {
                     <i className="fal fa-times"></i>
                 </button>
                 <div className="mb-5"> {/* side-logo mb-20 */}
-                    <a href="index.html"><img src="https://res.cloudinary.com/zurri-cloud/image/upload/v1759221309/bariki/alh0lrkyjtbzydirlamy.png" alt="logo" /></a>
+                    <a href="index.html"><img src="https://site-contents.aptusagency.com/bariki/alh0lrkyjtbzydirlamy.png" alt="logo" /></a>
                 </div>
                 {/* Target for MeanMenu or custom mobile nav */}
                 <div className="mobile-menu mt-5">

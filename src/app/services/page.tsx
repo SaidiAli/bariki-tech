@@ -17,7 +17,7 @@ export default function ServicesPage() {
         <div className="container-custom">
           <div className="absolute inset-0">
             <img
-              src={'https://res.cloudinary.com/zurri-cloud/image/upload/v1761834481/bariki/nlg8xybmeq7dcximos5f.webp'}
+              src={'https://site-contents.aptusagency.com/bariki/nlg8xybmeq7dcximos5f.webp'}
               alt="About Bariki Tech"
               className="w-full h-full object-cover"
             />

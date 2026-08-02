@@ -16,7 +16,7 @@ const About = () => {
         <div className="container-custom">
           <div className="absolute inset-0">
             <img
-              src={'https://res.cloudinary.com/zurri-cloud/image/upload/v1765874762/bariki/xrwmvv6n4gwnp8tgg2zh.jpg'}
+              src={'https://site-contents.aptusagency.com/bariki/xrwmvv6n4gwnp8tgg2zh.jpg'}
               alt="About Bariki Tech"
               className="w-full h-full object-cover"
             />
@@ -72,7 +72,7 @@ const About = () => {
             </div>
             <div className="animate-slide-right">
               <img
-                src={'https://res.cloudinary.com/zurri-cloud/image/upload/v1759526429/bariki/hiryaparhmslqhxb0bom.png'}
+                src={'https://site-contents.aptusagency.com/bariki/hiryaparhmslqhxb0bom.png'}
                 alt="Security Engineer"
                 className="rounded-2xl shadow-2xl w-full"
               />
@@ -159,7 +159,7 @@ const About = () => {
           <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-stretch">
             <div className="relative min-h-[500px] w-full h-full rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="https://res.cloudinary.com/zurri-cloud/image/upload/v1765452951/bariki/kshtqub1tbrrmgon6jv1.jpg"
+                src="https://site-contents.aptusagency.com/bariki/kshtqub1tbrrmgon6jv1.jpg"
                 alt="Our Mission"
                 className="object-cover"
               />

@@ -45,7 +45,7 @@ const ContactSection = () => {
           <div className="container-custom">
             <div className="absolute inset-0">
               <img
-                src={'https://res.cloudinary.com/zurri-cloud/image/upload/v1765885793/bariki/mvf6oq68bejvi7jeaslj.jpg'}
+                src={'https://site-contents.aptusagency.com/bariki/mvf6oq68bejvi7jeaslj.jpg'}
                 alt="About Bariki Tech"
                 className="w-full h-full object-cover"
               />
@@ -233,7 +233,7 @@ const ContactSection = () => {
               {/* Kenya */}
               <div className="card-glass p-6 hover-lift">
                 <div className="flex items-start gap-4">
-                  <img src="https://res.cloudinary.com/zurri-cloud/image/upload/v1762423292/bariki/p5h8w1dpi76jnqbtvxmp.png" className="w-12 h-12" alt="bariki in kenya" />
+                  <img src="https://site-contents.aptusagency.com/bariki/p5h8w1dpi76jnqbtvxmp.png" className="w-12 h-12" alt="bariki in kenya" />
                   <div className="flex-1">
                     <h4 className="text-xl font-bold text-dark mb-3">Kenya</h4>
                     <div className="space-y-2 text-sm">
@@ -259,7 +259,7 @@ const ContactSection = () => {
               {/* Rwanda */}
               <div className="card-glass p-6 hover-lift">
                 <div className="flex items-start gap-4">
-                  <img src="https://res.cloudinary.com/zurri-cloud/image/upload/v1762423398/bariki/xbmz51nn267umetlgsuj.webp" className="w-12 h-12" alt="bariki in rwanda" />
+                  <img src="https://site-contents.aptusagency.com/bariki/xbmz51nn267umetlgsuj.webp" className="w-12 h-12" alt="bariki in rwanda" />
                   <div className="flex-1">
                     <h4 className="text-xl font-bold text-dark mb-3">Rwanda</h4>
                     <div className="space-y-2 text-sm">
@@ -285,7 +285,7 @@ const ContactSection = () => {
               {/* South Sudan */}
               <div className="card-glass p-6 hover-lift">
                 <div className="flex items-start gap-4">
-                  <img src="https://res.cloudinary.com/zurri-cloud/image/upload/v1762423556/bariki/u84lodyn9uc60fdzjcnu.webp" className="w-12 h-12" alt="bariki in south sudan" />
+                  <img src="https://site-contents.aptusagency.com/bariki/u84lodyn9uc60fdzjcnu.webp" className="w-12 h-12" alt="bariki in south sudan" />
                   <div className="flex-1">
                     <h4 className="text-xl font-bold text-dark mb-3">South Sudan</h4>
                     <div className="space-y-2 text-sm">
@@ -311,7 +311,7 @@ const ContactSection = () => {
               {/* Congo */}
               <div className="card-glass p-6 hover-lift">
                 <div className="flex items-start gap-4">
-                  <img src="https://res.cloudinary.com/zurri-cloud/image/upload/v1762423544/bariki/gmrdecj0bp4zqjegiifg.webp" className="w-12 h-12" alt="bariki in congo" />
+                  <img src="https://site-contents.aptusagency.com/bariki/gmrdecj0bp4zqjegiifg.webp" className="w-12 h-12" alt="bariki in congo" />
                   <div className="flex-1">
                     <h4 className="text-xl font-bold text-dark mb-3">Congo (DRC)</h4>
                     <div className="space-y-2 text-sm">
@@ -337,7 +337,7 @@ const ContactSection = () => {
               {/* Tanzania */}
               <div className="card-glass p-6 hover-lift">
                 <div className="flex items-start gap-4">
-                  <img src="https://res.cloudinary.com/zurri-cloud/image/upload/v1762423537/bariki/cei8edsdgfsipzlfibqc.png" className="w-12 h-12" alt="bariki in tanzania" />
+                  <img src="https://site-contents.aptusagency.com/bariki/cei8edsdgfsipzlfibqc.png" className="w-12 h-12" alt="bariki in tanzania" />
                   <div className="flex-1">
                     <h4 className="text-xl font-bold text-dark mb-3">Tanzania</h4>
                     <div className="space-y-2 text-sm">

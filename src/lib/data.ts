@@ -295,8 +295,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: 'mdi:fence',
     title: 'Anti-Climb Fence',
     description: 'High-security welded mesh fencing system engineered to deliver uncompromising perimeter protection while maintaining clear visibility.',
-    image: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1774528855/bariki/l3sbpqzvytmifutx7hww.jpg',
-    heroImage: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1774528855/bariki/l3sbpqzvytmifutx7hww.jpg',
+    image: 'https://site-contents.aptusagency.com/bariki/l3sbpqzvytmifutx7hww.jpg',
+    heroImage: 'https://site-contents.aptusagency.com/bariki/l3sbpqzvytmifutx7hww.jpg',
     video: 'https://www.youtube.com/embed/S7kvqyXVgN0',
     features: [
       'Anti-Climb Mesh Aperture - Narrow openings (76.2x12.7 mm, 76x25 mm, or 76x50 mm) prevent climbing',
@@ -313,7 +313,7 @@ export const servicesData: Record<string, ServiceData> = {
     ],
     detailedDescription: 'Bariki Tech Anti-Climb Fence is a high-security welded mesh fencing system engineered to deliver uncompromising perimeter protection while maintaining clear visibility. Unlike traditional palisade or wire mesh fencing, it combines advanced anti-climb technology, superior strength, and a sleek modern appearance. Available in heights from 1.2 m (residential) to 3.0 m (maximum security) and a range of coating finishes, our anti-climb fencing is trusted across industrial facilities, commercial parks, residential estates, schools, airports, and government buildings throughout East Africa.',
     whyChoose: 'We don\'t just install fences—we engineer perimeter barriers that actively deter intrusion. Our anti-climb mesh systems integrate seamlessly with CCTV for unobstructed camera sightlines, electric fencing for multi-layered perimeter defense, and alarm systems for immediate breach detection. With options for every security level and coatings designed for Africa\'s climate, you get a long-lasting, low-maintenance perimeter that works as hard as your security team.',
-    images: ['https://res.cloudinary.com/zurri-cloud/image/upload/v1774439828/bariki/pso4qbqpku4z4429wvap.png'],
+    images: ['https://site-contents.aptusagency.com/bariki/pso4qbqpku4z4429wvap.png'],
     ecosystemBranch: 'installations-maintenance'
   },
   'cctv-surveillance': {
@@ -321,8 +321,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: 'mdi:security-cctv',
     title: 'Digital CCTV Surveillance Systems',
     description: 'Advanced surveillance systems with HD cameras, remote monitoring, and intelligent analytics for comprehensive security coverage.',
-    image: "https://res.cloudinary.com/zurri-cloud/image/upload/v1761837924/bariki/qf4upyjn3byenihy6xiv.jpg",
-    heroImage: "https://res.cloudinary.com/zurri-cloud/image/upload/v1761834481/bariki/nlg8xybmeq7dcximos5f.webp",
+    image: "https://site-contents.aptusagency.com/bariki/qf4upyjn3byenihy6xiv.jpg",
+    heroImage: "https://site-contents.aptusagency.com/bariki/nlg8xybmeq7dcximos5f.webp",
     video: "https://www.youtube.com/embed/Q_p3pka81uc?si=gpY5ouI7u93PnIoT&amp;controls=0",
     features: ['HD/4K Video Quality', 'Remote Monitoring', 'Motion Detection', 'Night Vision', 'Cloud Storage', 'Mobile App Access'],
     benefits: [
@@ -333,7 +333,7 @@ export const servicesData: Record<string, ServiceData> = {
     ],
     detailedDescription: 'Our CCTV surveillance systems are designed for Africa\'s unique security challenges. From Kampala\'s bustling business districts to remote oilfield installations, we deliver HD/4K monitoring with intelligent analytics that work reliably in challenging conditions. Every camera placement follows CPTED principles, ensuring optimal coverage with minimal blind spots.',
     whyChoose: 'We don\'t just install cameras—we architect visual intelligence systems. Our CCTV solutions integrate seamlessly with your access control, alarms, and cybersecurity infrastructure, creating a unified command view. With remote monitoring, mobile access, and cloud backup, you gain complete visibility from anywhere in the world.',
-    images: ["https://res.cloudinary.com/zurri-cloud/image/upload/v1761842328/bariki/fwoicvsnk4peajiizvrl.jpg", "https://res.cloudinary.com/zurri-cloud/image/upload/v1761842265/bariki/sk3bbrqtn7xrksv3wnca.webp"],
+    images: ["https://site-contents.aptusagency.com/bariki/fwoicvsnk4peajiizvrl.jpg", "https://site-contents.aptusagency.com/bariki/sk3bbrqtn7xrksv3wnca.webp"],
     ecosystemBranch: 'installations-maintenance'
   },
   'electric-fencing': {
@@ -341,8 +341,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: 'mdi:gate-alert',
     title: 'High-Security Electric Fencing',
     description: 'High-voltage perimeter protection systems designed to deter intruders while ensuring safety and reliability.',
-    image: "https://res.cloudinary.com/zurri-cloud/image/upload/v1762418932/bariki/wpqc6g1ekjup8zr8kxhk.webp",
-    heroImage: "https://res.cloudinary.com/zurri-cloud/image/upload/v1762418932/bariki/wpqc6g1ekjup8zr8kxhk.webp",
+    image: "https://site-contents.aptusagency.com/bariki/wpqc6g1ekjup8zr8kxhk.webp",
+    heroImage: "https://site-contents.aptusagency.com/bariki/wpqc6g1ekjup8zr8kxhk.webp",
     video: "https://www.youtube.com/embed/-Hpc8R-gYBs?si=bL3CMoymlRR2STLS",
     features: ['High Voltage Protection', 'Alarm Integration', 'Weather Resistant', 'Low Maintenance', 'Solar Options', 'Monitoring Systems'],
     benefits: [
@@ -361,8 +361,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: 'mdi:access-point',
     title: 'Access Control',
     description: 'Smart access control systems including biometric scanners, keycards, and automated entry management.',
-    image: "https://res.cloudinary.com/zurri-cloud/image/upload/v1774528001/bariki/naklnkxzussuy5nqyfds.jpg",
-    heroImage: "https://res.cloudinary.com/zurri-cloud/image/upload/v1774528001/bariki/naklnkxzussuy5nqyfds.jpg",
+    image: "https://site-contents.aptusagency.com/bariki/naklnkxzussuy5nqyfds.jpg",
+    heroImage: "https://site-contents.aptusagency.com/bariki/naklnkxzussuy5nqyfds.jpg",
     video: "https://www.youtube.com/embed/9dfILBOmnCA?si=tnUBP4Bxvv1vTSWC",
     features: ['Biometric Scanners', 'Keycard Systems', 'Mobile Access', 'Time Scheduling', 'Visitor Management', 'Integration Ready'],
     benefits: [
@@ -373,7 +373,7 @@ export const servicesData: Record<string, ServiceData> = {
     ],
     detailedDescription: 'Our access control solutions secure Uganda\'s most sensitive facilities—from bank vaults to data centers, hospital wings to government offices. We design hierarchical credential systems that give you granular control over who enters where and when. Every access event is logged, creating an audit trail that meets compliance requirements while integrating seamlessly with surveillance and alarm systems.',
     whyChoose: 'We don\'t just control doors—we architect identity-based security. Our access control systems unify biometric scanners, keycard readers, mobile credentials, and visitor management into one intelligent platform. With time-based scheduling, zone restrictions, and emergency lockdown capabilities, you maintain complete control while ensuring smooth operations.',
-    images: ["https://res.cloudinary.com/zurri-cloud/image/upload/v1759535383/bariki/eyfnlqb82dfteinvlcoe.jpg"],
+    images: ["https://site-contents.aptusagency.com/bariki/eyfnlqb82dfteinvlcoe.jpg"],
     ecosystemBranch: 'installations-maintenance'
   },
   'gate-automation': {
@@ -381,8 +381,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: 'mdi:gate',
     title: 'Automated Gate Systems',
     description: 'Automated gate systems with remote control, safety features, and integration with existing security systems.',
-    image: "https://res.cloudinary.com/zurri-cloud/image/upload/v1759534485/bariki/bq86zz10bu5bhsafk22d.webp",
-    heroImage: "https://res.cloudinary.com/zurri-cloud/image/upload/v1774437255/bariki/nx7aoj7knghhqxzdthes.jpg",
+    image: "https://site-contents.aptusagency.com/bariki/bq86zz10bu5bhsafk22d.webp",
+    heroImage: "https://site-contents.aptusagency.com/bariki/nx7aoj7knghhqxzdthes.jpg",
     video: "https://www.youtube.com/embed/u1IyMLt-AEM?si=CM7-CpaVD-q63rTh",
     features: ['Remote Control', 'Safety Sensors', 'Backup Power', 'Integration Ready', 'Mobile App', 'Emergency Override'],
     benefits: [
@@ -401,8 +401,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: 'mdi:timer',
     title: 'Vehicle Access Control Barriers',
     description: 'Automated boom barriers that secure perimeters, control traffic flow, and create a single, manageable access point for enhanced security',
-    image: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1759534834/bariki/ei6jc4hzhkctszxawhn4.jpg',
-    heroImage: "https://res.cloudinary.com/zurri-cloud/image/upload/v1759534834/bariki/ei6jc4hzhkctszxawhn4.jpg",
+    image: 'https://site-contents.aptusagency.com/bariki/ei6jc4hzhkctszxawhn4.jpg',
+    heroImage: "https://site-contents.aptusagency.com/bariki/ei6jc4hzhkctszxawhn4.jpg",
     video: "https://www.youtube.com/embed/l78obVT8MVs?si=dCNzztrCXUYbKaWB",
     features: [
       "Creates a single, controlled access point for vehicles",
@@ -427,8 +427,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: "mdi:intercom",
     title: "Video & Audio Intercom Systems",
     description: "Securely manage visitor access with a range of audio and video intercoms for apartments, homes, and businesses.",
-    image: "https://res.cloudinary.com/zurri-cloud/image/upload/v1759535030/bariki/gh1ezkbgikrjpfk9abze.jpg",
-    heroImage: "https://res.cloudinary.com/zurri-cloud/image/upload/v1759535030/bariki/gh1ezkbgikrjpfk9abze.jpg",
+    image: "https://site-contents.aptusagency.com/bariki/gh1ezkbgikrjpfk9abze.jpg",
+    heroImage: "https://site-contents.aptusagency.com/bariki/gh1ezkbgikrjpfk9abze.jpg",
     video: "https://www.youtube.com/embed/TW-K5pFtcVg?si=AjWo7TNfe9b_Dwv7",
     features: [
       "Audio and video verification options",
@@ -453,8 +453,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: "mdi:alarm-light",
     title: "Intruder & Panic Alarm Systems",
     description: "Protect your property with intelligent alarm systems that detect unauthorized entry and provide instant alerts through audible sirens and remote panic buttons.",
-    image: "https://res.cloudinary.com/zurri-cloud/image/upload/v1759535383/bariki/eyfnlqb82dfteinvlcoe.jpg",
-    heroImage: "https://res.cloudinary.com/zurri-cloud/image/upload/v1759535383/bariki/eyfnlqb82dfteinvlcoe.jpg",
+    image: "https://site-contents.aptusagency.com/bariki/eyfnlqb82dfteinvlcoe.jpg",
+    heroImage: "https://site-contents.aptusagency.com/bariki/eyfnlqb82dfteinvlcoe.jpg",
     video: "https://www.youtube.com/embed/qTf8Kvd4Ups?si=ndsMUakIHY4emQoQ",
     features: [
       "Vibration sensors for windows and magnetic contacts for doors to detect unauthorized opening",
@@ -479,8 +479,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: "mdi:metal-detector",
     title: "Walk-Through Portable Metal Detectors",
     description: "A highly portable and rapidly deployable metal detector for events and facilities, ensuring enhanced security screening with ease and efficiency.",
-    image: "https://res.cloudinary.com/zurri-cloud/image/upload/v1762419337/bariki/wmjzqpvdctgpfj8ybnyh.jpg",
-    heroImage: "https://res.cloudinary.com/zurri-cloud/image/upload/v1759535630/bariki/sosgliesju4ydk55dh0t.png",
+    image: "https://site-contents.aptusagency.com/bariki/wmjzqpvdctgpfj8ybnyh.jpg",
+    heroImage: "https://site-contents.aptusagency.com/bariki/sosgliesju4ydk55dh0t.png",
     video: "https://www.youtube.com/embed/C-kLgMuMW-Y?si=DEJFcwgczDF_ajmM",
     features: [
       "Single-person portability and can be transported in a car or van",
@@ -505,8 +505,8 @@ export const servicesData: Record<string, ServiceData> = {
     icon: 'mdi:razor-double-edge',
     title: 'Electric Razor Fencing',
     description: 'Highly effective razor wire security barriers professionally installed to protect properties, institutions, and high-risk areas from unauthorized access.',
-    image: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1774529670/bariki/zkajutaeemyaatghcvdk.jpg',
-    heroImage: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1774529670/bariki/zkajutaeemyaatghcvdk.jpg',
+    image: 'https://site-contents.aptusagency.com/bariki/zkajutaeemyaatghcvdk.jpg',
+    heroImage: 'https://site-contents.aptusagency.com/bariki/zkajutaeemyaatghcvdk.jpg',
     video: 'https://www.youtube.com/embed/si7OxHzwWAY?si=qA-wfsHBIRdAnjQ4',
     features: [
       'Concertina & Flat-Wrap Designs - Tailored razor wire configurations for every security requirement',
@@ -526,10 +526,10 @@ export const servicesData: Record<string, ServiceData> = {
     detailedDescription: 'Razor wire is a highly effective security barrier widely used to protect properties, institutions, and high-risk areas from unauthorized access. Made from sharp, blade-like edges, it acts as a strong deterrent against intruders and enhances perimeter security. Our professional installation services ensure proper setup, whether for residential, commercial, or industrial applications. We provide durable, weather-resistant razor wire options, including concertina and flat-wrap designs, tailored to meet specific security needs. With expert installation, we help safeguard homes, businesses, government facilities, and warehouses, ensuring long-lasting protection and peace of mind.',
     whyChoose: 'We don\'t just install razor wire—we engineer comprehensive perimeter barriers. Our team assesses your site and recommends the right razor wire type and configuration to maximise deterrence and durability. From residential estates to government compounds, every installation is executed to the highest standards, complementing your existing security systems and delivering long-lasting peace of mind.',
     images: [
-      'https://res.cloudinary.com/zurri-cloud/image/upload/v1774529670/bariki/zkajutaeemyaatghcvdk.jpg',
-      "https://res.cloudinary.com/zurri-cloud/image/upload/v1774530662/bariki/ivliujysexofr4kv2vfc.jpg",
-      "https://res.cloudinary.com/zurri-cloud/image/upload/v1774530671/bariki/azzclhziskxi7rbdvgp3.jpg",
-      "https://res.cloudinary.com/zurri-cloud/image/upload/v1774530782/bariki/gy7rvdlie0rhcthrowk8.jpg"
+      'https://site-contents.aptusagency.com/bariki/zkajutaeemyaatghcvdk.jpg',
+      "https://site-contents.aptusagency.com/bariki/ivliujysexofr4kv2vfc.jpg",
+      "https://site-contents.aptusagency.com/bariki/azzclhziskxi7rbdvgp3.jpg",
+      "https://site-contents.aptusagency.com/bariki/gy7rvdlie0rhcthrowk8.jpg"
     ],
     ecosystemBranch: 'installations-maintenance'
   }
@@ -679,22 +679,22 @@ export const team = [
   {
     name: 'Migisa Isaac',
     role: 'Team Lead',
-    image: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1759527920/bariki/bmketverzbisjyuekxpx.png'
+    image: 'https://site-contents.aptusagency.com/bariki/bmketverzbisjyuekxpx.png'
   },
   {
     name: 'Atwine Mukama Tayebwa',
     role: 'Business Development Manager',
-    image: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1759527920/bariki/rhrsscss7reexshwlvor.png'
+    image: 'https://site-contents.aptusagency.com/bariki/rhrsscss7reexshwlvor.png'
   },
   {
     name: 'Monica Uwera',
     role: 'Client Relations Manager',
-    image: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1759527921/bariki/y9e1emejnm1ttcpm9vil.png'
+    image: 'https://site-contents.aptusagency.com/bariki/y9e1emejnm1ttcpm9vil.png'
   },
   {
     name: 'Luja Abdul Bastu',
     role: 'Network and Systems Admin',
-    image: 'https://res.cloudinary.com/zurri-cloud/image/upload/v1759527921/bariki/jt0jx9kot7pzvzgbeyhn.png'
+    image: 'https://site-contents.aptusagency.com/bariki/jt0jx9kot7pzvzgbeyhn.png'
   }
 ];
 

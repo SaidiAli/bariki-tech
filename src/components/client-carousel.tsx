@@ -1,12 +1,12 @@
 const clients = [
-    { name: "Buwule and Mayiga Advocates", logo: "/clients/buwule-and-mayiga-advocates.png" },
-    { name: "Case Medical", logo: "/clients/case-medical.png" },
-    { name: "Clark University", logo: "/clients/clark-university.png" },
-    { name: "Cornerstone Community School", logo: "/clients/cornerstone-community-school.png" },
-    { name: "Faraja Africa", logo: "/clients/faraja-africa.png" },
-    { name: "Makerere CEDAT", logo: "/clients/makerere-cedat.png" },
-    { name: "Makerere NetLabs", logo: "/clients/makerere-netlabs.png" },
-    { name: "Uganda Christian University", logo: "/clients/uganda-christian-university.png" },
+    { name: "Buwule and Mayiga Advocates", logo: "https://site-contents.aptusagency.com/bariki/buwule-and-mayiga-advocates.png" },
+    { name: "Case Medical", logo: "https://site-contents.aptusagency.com/bariki/case-medical.png" },
+    { name: "Clark University", logo: "https://site-contents.aptusagency.com/bariki/clark-university.png" },
+    { name: "Cornerstone Community School", logo: "https://site-contents.aptusagency.com/bariki/cornerstone-community-school.png" },
+    { name: "Faraja Africa", logo: "https://site-contents.aptusagency.com/bariki/faraja-africa.png" },
+    { name: "Makerere CEDAT", logo: "https://site-contents.aptusagency.com/bariki/makerere-cedat.png" },
+    { name: "Makerere NetLabs", logo: "https://site-contents.aptusagency.com/bariki/makerere-netlabs.png" },
+    { name: "Uganda Christian University", logo: "https://site-contents.aptusagency.com/bariki/uganda-christian-university.png" },
 ];
 
 const ClientCarousel = () => {
